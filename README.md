@@ -10,9 +10,9 @@ The data collection came from October 2020 to October 2021. Tool of data collect
 ![image](https://user-images.githubusercontent.com/50162629/143213245-d975a02f-4ab9-4bda-949d-15d120ad667b.png)
 
 # The overall opinions for Tawakkalna and Sehaty applications:
-(1) ## Tawakkalna opinions.
+(1)  Tawakkalna opinions.
  ![image](https://user-images.githubusercontent.com/50162629/143214167-0532ac8a-256a-42d3-97fe-2d8357e1a473.png)
-(2) ## Sehaty opinions..
+(2)  Sehaty opinions..
 ![image](https://user-images.githubusercontent.com/50162629/143214326-43ea462b-d75b-4563-8c8a-2833dd1787b3.png)
 
 The two applications have positive reactions, but the Sehaty application has the most negative reactions, and after looking at the comments of the beneficiaries, we noticed one of the updates caused a problem in locating the patient.
