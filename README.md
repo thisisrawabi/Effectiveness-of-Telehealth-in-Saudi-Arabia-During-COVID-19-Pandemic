@@ -8,7 +8,7 @@ COVID19 spreads swiftly, and each infected individual can infect multiple people
 The data collection came from October 2020 to October 2021. Tool of data collection: it includes three main parts which the first part included 4 items regarding Socio Demographic data; The second part included 9 items about the knowledge of current status of telehealth; The third part contains 13 items for the effectiveness of health care of telehealth. A user reviews column has also been added from Google Play for the most used applications.
 
 <center>
-    <img src="https://user-images.githubusercontent.com/50162629/143213245-d975a02f-4ab9-4bda-949d-15d120ad667b.png" width="600" alt="image"  />
+    <img src="https://user-images.githubusercontent.com/50162629/143213245-d975a02f-4ab9-4bda-949d-15d120ad667b.png" width="600" left="200" alt="image"  />
 </center>
 
 
