@@ -15,32 +15,51 @@ The data collection came from October 2020 to October 2021. Tool of data collect
 
 # The overall opinions for Tawakkalna and Sehaty applications:
 (1)  Tawakkalna opinions.
- ![image](https://user-images.githubusercontent.com/50162629/143214167-0532ac8a-256a-42d3-97fe-2d8357e1a473.png)
+ <center>
+    <img src="https://user-images.githubusercontent.com/50162629/143214167-0532ac8a-256a-42d3-97fe-2d8357e1a473.png" width="600" left='200' alt="image"  />
+</center>
+
 (2)  Sehaty opinions..
-![image](https://user-images.githubusercontent.com/50162629/143214326-43ea462b-d75b-4563-8c8a-2833dd1787b3.png)
+<center>
+    <img src="https://user-images.githubusercontent.com/50162629/143214326-43ea462b-d75b-4563-8c8a-2833dd1787b3.png" width="600" left='200' alt="image"  />
+</center>
 
 The two applications have positive reactions, but the Sehaty application has the most negative reactions, and after looking at the comments of the beneficiaries, we noticed one of the updates caused a problem in locating the patient.
-![image](https://user-images.githubusercontent.com/50162629/143214724-19396d05-adef-44c9-9e8d-b8cfb959adda.png)
+
+<center>
+    <img src="https://user-images.githubusercontent.com/50162629/143214724-19396d05-adef-44c9-9e8d-b8cfb959adda.png" width="300" height='200' alt="image"  />
+</center>
 
 In addition, In the comments of the beneficiaries of all applications, most of the negative responses came from many updates. To see more clearly, we used the machine learning application NLP.
 
 # After apply NLP this is result:
 -	A plot of the number of most common opinions in Tawakkalna application using the plot method:
-![image](https://user-images.githubusercontent.com/50162629/143215097-0115b726-6345-4f0e-a195-d5ca36025720.png)
+<center>
+    <img src="https://user-images.githubusercontent.com/50162629/143215097-0115b726-6345-4f0e-a195-d5ca36025720.png" width="1000" height='200' alt="image"  />
+</center>
  
 -	A plot of the number of most common opinions in the Sehaty application using the plot method:
-![image](https://user-images.githubusercontent.com/50162629/143215196-b77dc606-f087-4d1d-a713-9dd56e819019.png)
+<center>
+    <img src="https://user-images.githubusercontent.com/50162629/143215196-b77dc606-f087-4d1d-a713-9dd56e819019.png" width="1000" height='200' alt="image"  />
+</center>
 
 # Word cloud 
 -	Visualize all Words count in Tawakkalna 
-![image](https://user-images.githubusercontent.com/50162629/143215396-fed1b2d9-decf-4586-b844-13427c671c34.png)
+<center>
+    <img src="https://user-images.githubusercontent.com/50162629/143215396-fed1b2d9-decf-4586-b844-13427c671c34.png" width="500" height='200' alt="image"  />
+</center>
 
-![image](https://user-images.githubusercontent.com/50162629/143215544-89e3e6b9-7ad9-4c2c-9f75-fade400f5b27.png)
+<center>
+    <img src="https://user-images.githubusercontent.com/50162629/143215544-89e3e6b9-7ad9-4c2c-9f75-fade400f5b27.png" width="500" height='200' alt="image"  />
+</center>
 
 -	Visualize all Words count in Sehaty
-![image](https://user-images.githubusercontent.com/50162629/143215617-6baa60bb-6d85-4b6e-9a9f-736f4cecf539.png)
+<center>
+    <img src="https://user-images.githubusercontent.com/50162629/143215617-6baa60bb-6d85-4b6e-9a9f-736f4cecf539.png" width="500" height='200' alt="image"  />
+</center>
 
-![image](https://user-images.githubusercontent.com/50162629/143215812-a7ceb792-580e-4ff0-a989-ae2396bad5e1.png)
-
+<center>
+    <img src="https://user-images.githubusercontent.com/50162629/143215812-a7ceb792-580e-4ff0-a989-ae2396bad5e1.png" width="500" height='200' alt="image"  />
+</center>
 
  
